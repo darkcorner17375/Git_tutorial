@@ -24,3 +24,9 @@ I will keep updating in my junior backend career.
 `git commit -m "備註"`
 
 提交（commit）目前的異動並透過 -m 參數設定摘要說明文字。
+
+`git remote add <name> <repository>`
+新增一筆遠端倉庫
+
+`git push -u <remote_name> <local_branch_name>`
+將本地端的檔案提交到遠端倉庫
